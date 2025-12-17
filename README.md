@@ -124,7 +124,7 @@ I design and build **high-performance web applications**, **ERP systems**, and *
 
 ## 🌍 Contact
 
-📧 **Email**: taoussinizae7@gmail.com  
+📧 **Email**: nizartaoussi07@gmail.com  
 💼 **LinkedIn**: https://www.linkedin.com/in/nizar-taoussi-74722a1aa/  
 🐙 **GitHub**: https://github.com/nizarTAOUSSI  
 
